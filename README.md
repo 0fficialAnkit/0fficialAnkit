@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a software developer with a keen interest in P
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on open-source projects and innovative ideas
 - 🤔 I’m looking for help with optimizing algorithms in my projects
-- 📫 How to reach me ([LinkedIn]([www.linkedin.com/in/ankit-kumar-09945b2b2](https://www.linkedin.com/in/ankit-kumar-09945b2b2/?originalSubdomain=in))
+- 📫 How to reach me [Linkedln](https://www.linkedin.com/in/ankit-kumar-09945b2b2/?originalSubdomain=in)
 - 😄 Pronouns: IKIGAI
 - ⚡ Fun fact: 🍕 Pizza is my favorite food, and I’m always on the hunt for the best slice.
 
