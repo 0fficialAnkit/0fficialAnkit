@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a website<br>🌱 I’m currently learning C++ and WebDev<br>💬 Ask me about programming<br>⚡ Fun fact - You can call me MidNight
+🔭 I’m currently working on content creation<br>👯 I’m looking to collaborate on software testing-related content creation<br>🤝 I’m looking for help with developing a website<br>🌱 I’m currently learning JAVA, SWIFT and WebDev<br>💬 Ask me about programming<br>⚡ Fun fact - You can call me MidNight
 
 
 ## 🌐 Socials:
